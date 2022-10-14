@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<books>
+
+<book>
+	<Title>Foundation</Title>
+	<Author>Isaac Asimov</Author>
+	<DatePublished>1942</DatePublished>
+	<Genre>Sci-Fi</Genre>
+</book>
+
+<book>
+	<Title>A Short History of Nearly Everything</Title>
+	<Author>Bill Bryson</Author>
+	<DatePublished>2004</DatePublished>
+	<Genre>Informational</Genre>
+</book>
+
+<book>
+	<Title>Dress Your Family in Corduroy and Denim</Title>
+	<Author>David Sedaris</Author>
+	<DatePublished>2005</DatePublished>
+	<Genre>Humor</Genre>
+</book>
+
+</books>
